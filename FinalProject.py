@@ -137,7 +137,7 @@ def Check_out_screen():
  Label(screen3, text = "").pack()
  Button(screen3, text = "Ok", command = Check_out, height = "2", width = "20").pack()
  screen3.mainloop()
-
+#hello
 def Welcome_screen():
  global screen1
  screen1= Tk()
